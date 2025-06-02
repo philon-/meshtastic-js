@@ -1,0 +1,10 @@
+{
+  "name": "@meshtastic/transport-web-serial",
+  "version": "0.2.1",
+  "dependencies": {
+    "@types/w3c-web-serial": "npm:@types/w3c-web-serial@^1.0.7"
+  },
+  "exports": {
+    ".": "./mod.ts"
+  }
+}
